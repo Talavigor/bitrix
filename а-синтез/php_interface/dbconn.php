@@ -2,10 +2,10 @@
 define("BX_USE_MYSQLI", true);
 define("DBPersistent", false);
 $DBType = "mysql";
-$DBHost = "asynt.mysql.tools";
-$DBLogin = "asynt_db";
-$DBPassword = "Uw2S769y";
-$DBName = "asynt_db";
+$DBHost = "";
+$DBLogin = "";
+$DBPassword = "";
+$DBName = "";
 $DBDebug = false;
 $DBDebugToFile = false;
 
